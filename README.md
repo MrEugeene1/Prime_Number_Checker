@@ -233,4 +233,3 @@ This is educational code. Feel free to use, modify, and distribute for learning 
 **Happy Prime Checking!** 🎯
 
 
-# Prime_Number_Checker
